@@ -1,0 +1,301 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1746549076818,726,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-1,text,true,,117865,236,8,8,https://pokeshop.pl/,160,0,112
+1746549076818,160,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-1,text,true,,538,120,8,8,https://www.pokeshop.pl/,160,0,112
+1746549076979,565,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-1,text,true,,117327,116,8,8,https://pokeshop.pl/,429,0,279
+1746549076905,658,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-2,text,true,,116201,236,7,7,https://pokeshop.pl/,159,0,97
+1746549076905,159,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-2,text,true,,538,120,7,7,https://www.pokeshop.pl/,159,0,97
+1746549077065,498,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-2,text,true,,115663,116,7,7,https://pokeshop.pl/,387,0,219
+1746549077105,599,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-4,text,true,,118140,236,7,7,https://pokeshop.pl/,222,0,179
+1746549077105,222,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-4,text,true,,538,120,7,7,https://www.pokeshop.pl/,222,0,179
+1746549077328,376,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-4,text,true,,117602,116,7,7,https://pokeshop.pl/,246,0,87
+1746549077005,704,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-3,text,true,,116141,236,7,7,https://pokeshop.pl/,334,0,280
+1746549077005,334,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-3,text,true,,538,120,7,7,https://www.pokeshop.pl/,334,0,280
+1746549077340,369,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-3,text,true,,115603,116,7,7,https://pokeshop.pl/,257,0,98
+1746549077306,515,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-6,text,true,,114553,236,7,7,https://pokeshop.pl/,176,0,116
+1746549077306,176,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-6,text,true,,538,120,7,7,https://www.pokeshop.pl/,176,0,116
+1746549077482,339,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-6,text,true,,114015,116,7,7,https://pokeshop.pl/,217,0,97
+1746549077206,643,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-5,text,true,,117178,236,6,6,https://pokeshop.pl/,175,0,131
+1746549077206,175,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-5,text,true,,538,120,6,6,https://www.pokeshop.pl/,175,0,131
+1746549077382,467,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-5,text,true,,116640,116,6,6,https://pokeshop.pl/,317,0,111
+1746549077404,493,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-7,text,true,,116356,236,5,5,https://pokeshop.pl/,144,0,86
+1746549077404,144,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-7,text,true,,522,120,5,5,https://www.pokeshop.pl/,144,0,86
+1746549077549,348,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-7,text,true,,115834,116,5,5,https://pokeshop.pl/,220,0,101
+1746549077606,551,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-9,text,true,,116429,236,7,7,https://pokeshop.pl/,119,0,74
+1746549077606,119,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-9,text,true,,522,120,7,7,https://www.pokeshop.pl/,119,0,74
+1746549077725,432,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-9,text,true,,115907,116,7,7,https://pokeshop.pl/,279,0,102
+1746549077505,693,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-8,text,true,,117340,236,6,6,https://pokeshop.pl/,170,0,107
+1746549077505,170,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-8,text,true,,522,120,6,6,https://www.pokeshop.pl/,170,0,107
+1746549077675,523,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-8,text,true,,116818,116,6,6,https://pokeshop.pl/,342,0,103
+1746549077705,622,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-10,text,true,,116607,236,7,7,https://pokeshop.pl/,181,0,127
+1746549077705,181,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-10,text,true,,538,120,7,7,https://www.pokeshop.pl/,181,0,127
+1746549077886,441,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-10,text,true,,116069,116,7,7,https://pokeshop.pl/,306,0,95
+1746549077804,600,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-11,text,true,,115741,236,6,6,https://pokeshop.pl/,163,0,109
+1746549077804,163,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-11,text,true,,538,120,6,6,https://www.pokeshop.pl/,163,0,109
+1746549077968,436,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-11,text,true,,115203,116,6,6,https://pokeshop.pl/,316,0,108
+1746549077907,589,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-12,text,true,,117772,236,6,6,https://pokeshop.pl/,151,0,87
+1746549077907,151,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-12,text,true,,538,120,6,6,https://www.pokeshop.pl/,151,0,87
+1746549078059,437,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-12,text,true,,117234,116,6,6,https://pokeshop.pl/,296,0,140
+1746549078106,471,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-14,text,true,,116763,236,6,6,https://pokeshop.pl/,150,0,102
+1746549078106,150,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-14,text,true,,538,120,6,6,https://www.pokeshop.pl/,150,0,102
+1746549078256,321,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-14,text,true,,116225,116,6,6,https://pokeshop.pl/,212,0,98
+1746549078007,595,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-13,text,true,,115558,236,5,5,https://pokeshop.pl/,186,0,119
+1746549078007,186,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-13,text,true,,538,120,5,5,https://www.pokeshop.pl/,186,0,119
+1746549078194,408,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-13,text,true,,115020,116,5,5,https://pokeshop.pl/,267,0,101
+1746549078205,548,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-15,text,true,,116706,236,6,6,https://pokeshop.pl/,165,0,116
+1746549078205,165,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-15,text,true,,538,120,6,6,https://www.pokeshop.pl/,165,0,116
+1746549078371,382,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-15,text,true,,116168,116,6,6,https://pokeshop.pl/,239,0,122
+1746549078306,505,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-16,text,true,,116437,236,6,6,https://pokeshop.pl/,153,0,89
+1746549078306,153,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-16,text,true,,538,120,6,6,https://www.pokeshop.pl/,153,0,89
+1746549078460,351,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-16,text,true,,115899,116,6,6,https://pokeshop.pl/,223,0,100
+1746549078406,591,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-17,text,true,,117417,236,6,6,https://pokeshop.pl/,164,0,105
+1746549078406,164,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-17,text,true,,522,120,6,6,https://www.pokeshop.pl/,164,0,105
+1746549078570,427,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-17,text,true,,116895,116,6,6,https://pokeshop.pl/,300,0,102
+1746549078505,534,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-18,text,true,,117354,236,6,6,https://pokeshop.pl/,132,0,87
+1746549078505,132,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-18,text,true,,522,120,6,6,https://www.pokeshop.pl/,132,0,87
+1746549078637,402,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-18,text,true,,116832,116,6,6,https://pokeshop.pl/,264,0,108
+1746549078604,530,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-19,text,true,,116807,236,6,6,https://pokeshop.pl/,165,0,102
+1746549078604,165,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-19,text,true,,522,120,6,6,https://www.pokeshop.pl/,165,0,102
+1746549078770,364,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-19,text,true,,116285,116,6,6,https://pokeshop.pl/,215,0,107
+1746549078705,497,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-20,text,true,,117140,236,5,5,https://pokeshop.pl/,157,0,106
+1746549078705,157,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-20,text,true,,522,120,5,5,https://www.pokeshop.pl/,157,0,106
+1746549078862,340,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-20,text,true,,116618,116,5,5,https://pokeshop.pl/,234,0,77
+1746549078806,452,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-21,text,true,,116212,236,5,5,https://pokeshop.pl/,128,0,83
+1746549078806,128,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-21,text,true,,522,120,5,5,https://www.pokeshop.pl/,128,0,83
+1746549078935,323,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-21,text,true,,115690,116,5,5,https://pokeshop.pl/,199,0,97
+1746549078905,553,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-22,text,true,,117543,236,6,6,https://pokeshop.pl/,184,0,103
+1746549078905,184,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-22,text,true,,522,120,6,6,https://www.pokeshop.pl/,184,0,103
+1746549079089,369,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-22,text,true,,117021,116,6,6,https://pokeshop.pl/,221,0,96
+1746549079004,493,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-23,text,true,,117495,236,5,5,https://pokeshop.pl/,153,0,105
+1746549079004,153,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-23,text,true,,522,120,5,5,https://www.pokeshop.pl/,153,0,105
+1746549079158,339,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-23,text,true,,116973,116,5,5,https://pokeshop.pl/,219,0,104
+1746549079105,517,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-24,text,true,,118209,236,6,6,https://pokeshop.pl/,152,0,95
+1746549079105,152,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-24,text,true,,522,120,6,6,https://www.pokeshop.pl/,152,0,95
+1746549079257,365,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-24,text,true,,117687,116,6,6,https://pokeshop.pl/,256,0,102
+1746549079204,492,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-25,text,true,,116522,236,5,5,https://pokeshop.pl/,152,0,100
+1746549079204,152,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-25,text,true,,522,120,5,5,https://www.pokeshop.pl/,152,0,100
+1746549079356,340,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-25,text,true,,116000,116,5,5,https://pokeshop.pl/,216,0,103
+1746549079305,487,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-26,text,true,,117184,236,5,5,https://pokeshop.pl/,152,0,93
+1746549079305,152,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-26,text,true,,522,120,5,5,https://www.pokeshop.pl/,152,0,93
+1746549079457,335,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-26,text,true,,116662,116,5,5,https://pokeshop.pl/,229,0,97
+1746549079405,539,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-27,text,true,,115971,236,6,6,https://pokeshop.pl/,166,0,116
+1746549079405,166,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-27,text,true,,522,120,6,6,https://www.pokeshop.pl/,166,0,116
+1746549079571,373,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-27,text,true,,115449,116,6,6,https://pokeshop.pl/,254,0,90
+1746549079505,552,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-28,text,true,,116889,236,6,6,https://pokeshop.pl/,181,0,112
+1746549079505,181,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-28,text,true,,522,120,6,6,https://www.pokeshop.pl/,181,0,112
+1746549079687,370,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-28,text,true,,116367,116,6,6,https://pokeshop.pl/,241,0,97
+1746549079605,607,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-29,text,true,,116549,236,7,7,https://pokeshop.pl/,150,0,93
+1746549079605,150,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-29,text,true,,522,120,7,7,https://www.pokeshop.pl/,150,0,93
+1746549079756,456,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-29,text,true,,116027,116,7,7,https://pokeshop.pl/,309,0,112
+1746549079705,543,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-30,text,true,,116191,236,6,6,https://pokeshop.pl/,179,0,114
+1746549079705,179,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-30,text,true,,522,120,6,6,https://www.pokeshop.pl/,179,0,114
+1746549079885,363,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-30,text,true,,115669,116,6,6,https://pokeshop.pl/,249,0,97
+1746549079805,536,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-31,text,true,,115890,236,6,6,https://pokeshop.pl/,172,0,112
+1746549079805,172,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-31,text,true,,522,120,6,6,https://www.pokeshop.pl/,172,0,112
+1746549079978,363,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-31,text,true,,115368,116,6,6,https://pokeshop.pl/,228,0,90
+1746549079905,600,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-32,text,true,,116818,236,7,7,https://pokeshop.pl/,151,0,93
+1746549079905,151,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-32,text,true,,522,120,7,7,https://www.pokeshop.pl/,151,0,93
+1746549080056,449,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-32,text,true,,116296,116,7,7,https://pokeshop.pl/,311,0,130
+1746549080005,571,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-33,text,true,,116912,236,6,6,https://pokeshop.pl/,175,0,114
+1746549080005,175,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-33,text,true,,522,120,6,6,https://www.pokeshop.pl/,175,0,114
+1746549080180,396,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-33,text,true,,116390,116,6,6,https://pokeshop.pl/,262,0,95
+1746549080105,518,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-34,text,true,,117177,236,6,6,https://pokeshop.pl/,141,0,81
+1746549080105,141,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-34,text,true,,522,120,6,6,https://www.pokeshop.pl/,141,0,81
+1746549080248,375,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-34,text,true,,116655,116,6,6,https://pokeshop.pl/,239,0,98
+1746549080206,491,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-35,text,true,,116117,236,5,5,https://pokeshop.pl/,134,0,92
+1746549080206,134,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-35,text,true,,538,120,5,5,https://www.pokeshop.pl/,134,0,92
+1746549080341,356,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-35,text,true,,115579,116,5,5,https://pokeshop.pl/,235,0,110
+1746549080306,536,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-36,text,true,,117037,236,6,6,https://pokeshop.pl/,160,0,98
+1746549080306,160,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-36,text,true,,538,120,6,6,https://www.pokeshop.pl/,160,0,98
+1746549080467,375,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-36,text,true,,116499,116,6,6,https://pokeshop.pl/,255,0,90
+1746549080405,476,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-37,text,true,,116046,236,5,5,https://pokeshop.pl/,156,0,100
+1746549080405,156,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-37,text,true,,522,120,5,5,https://www.pokeshop.pl/,156,0,100
+1746549080561,320,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-37,text,true,,115524,116,5,5,https://pokeshop.pl/,210,0,92
+1746549080506,506,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-38,text,true,,114769,236,6,6,https://pokeshop.pl/,154,0,99
+1746549080506,154,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-38,text,true,,522,120,6,6,https://www.pokeshop.pl/,154,0,99
+1746549080661,351,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-38,text,true,,114247,116,6,6,https://pokeshop.pl/,245,0,90
+1746549080605,472,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-39,text,true,,115565,236,5,5,https://pokeshop.pl/,177,0,117
+1746549080605,177,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-39,text,true,,538,120,5,5,https://www.pokeshop.pl/,177,0,117
+1746549080782,295,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-39,text,true,,115027,116,5,5,https://pokeshop.pl/,200,0,79
+1746549080706,502,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-40,text,true,,117075,236,6,6,https://pokeshop.pl/,157,0,100
+1746549080706,157,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-40,text,true,,538,120,6,6,https://www.pokeshop.pl/,157,0,100
+1746549080863,345,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-40,text,true,,116537,116,6,6,https://pokeshop.pl/,205,0,76
+1746549080806,539,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-41,text,true,,116265,236,6,6,https://pokeshop.pl/,158,0,110
+1746549080806,158,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-41,text,true,,538,120,6,6,https://www.pokeshop.pl/,158,0,110
+1746549080965,380,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-41,text,true,,115727,116,6,6,https://pokeshop.pl/,272,0,86
+1746549080906,551,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-42,text,true,,115656,236,6,6,https://pokeshop.pl/,123,0,78
+1746549080906,123,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-42,text,true,,538,120,6,6,https://www.pokeshop.pl/,123,0,78
+1746549081030,427,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-42,text,true,,115118,116,6,6,https://pokeshop.pl/,303,0,141
+1746549081006,550,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-43,text,true,,118928,236,6,6,https://pokeshop.pl/,200,0,99
+1746549081006,200,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-43,text,true,,538,120,6,6,https://www.pokeshop.pl/,200,0,99
+1746549081207,349,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-43,text,true,,118390,116,6,6,https://pokeshop.pl/,225,0,100
+1746549081106,601,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-44,text,true,,115836,236,7,7,https://pokeshop.pl/,211,0,160
+1746549081106,211,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-44,text,true,,538,120,7,7,https://www.pokeshop.pl/,211,0,160
+1746549081318,389,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-44,text,true,,115298,116,7,7,https://pokeshop.pl/,246,0,103
+1746549081207,561,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-45,text,true,,116947,236,6,6,https://pokeshop.pl/,177,0,114
+1746549081207,177,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-45,text,true,,538,120,6,6,https://www.pokeshop.pl/,177,0,114
+1746549081385,383,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-45,text,true,,116409,116,6,6,https://pokeshop.pl/,268,0,92
+1746549081307,505,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-46,text,true,,117830,236,6,6,https://pokeshop.pl/,164,0,104
+1746549081307,164,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-46,text,true,,538,120,6,6,https://www.pokeshop.pl/,164,0,104
+1746549081471,341,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-46,text,true,,117292,116,6,6,https://pokeshop.pl/,214,0,92
+1746549081406,541,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-47,text,true,,117272,236,6,6,https://pokeshop.pl/,164,0,108
+1746549081406,164,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-47,text,true,,522,120,6,6,https://www.pokeshop.pl/,164,0,108
+1746549081570,377,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-47,text,true,,116750,116,6,6,https://pokeshop.pl/,236,0,104
+1746549081506,607,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-48,text,true,,116368,236,7,7,https://pokeshop.pl/,179,0,113
+1746549081506,179,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-48,text,true,,522,120,7,7,https://www.pokeshop.pl/,179,0,113
+1746549081686,427,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-48,text,true,,115846,116,7,7,https://pokeshop.pl/,296,0,128
+1746549081606,551,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-49,text,true,,115046,236,6,6,https://pokeshop.pl/,155,0,97
+1746549081606,155,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-49,text,true,,522,120,6,6,https://www.pokeshop.pl/,155,0,97
+1746549081762,395,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-49,text,true,,114524,116,6,6,https://pokeshop.pl/,269,0,95
+1746549081706,557,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-50,text,true,,116690,236,6,6,https://pokeshop.pl/,141,0,97
+1746549081706,141,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-50,text,true,,522,120,6,6,https://www.pokeshop.pl/,141,0,97
+1746549081847,416,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-50,text,true,,116168,116,6,6,https://pokeshop.pl/,284,0,114
+1746549081807,482,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-51,text,true,,116364,236,5,5,https://pokeshop.pl/,143,0,99
+1746549081807,143,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-51,text,true,,522,120,5,5,https://www.pokeshop.pl/,143,0,99
+1746549081951,338,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-51,text,true,,115842,116,5,5,https://pokeshop.pl/,230,0,115
+1746549081906,715,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-52,text,true,,117074,236,8,8,https://pokeshop.pl/,161,0,105
+1746549081906,161,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-52,text,true,,522,120,8,8,https://www.pokeshop.pl/,161,0,105
+1746549082067,554,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-52,text,true,,116552,116,8,8,https://pokeshop.pl/,434,0,267
+1746549082006,701,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-53,text,true,,115440,236,8,8,https://pokeshop.pl/,141,0,94
+1746549082006,141,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-53,text,true,,522,120,8,8,https://www.pokeshop.pl/,141,0,94
+1746549082147,560,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-53,text,true,,114918,116,8,8,https://pokeshop.pl/,417,0,244
+1746549082106,678,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-54,text,true,,116855,236,7,7,https://pokeshop.pl/,307,0,260
+1746549082106,307,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-54,text,true,,522,120,7,7,https://www.pokeshop.pl/,307,0,260
+1746549082414,370,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-54,text,true,,116333,116,7,7,https://pokeshop.pl/,231,0,93
+1746549082207,616,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-55,text,true,,116100,236,7,7,https://pokeshop.pl/,218,0,171
+1746549082207,218,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-55,text,true,,522,120,7,7,https://www.pokeshop.pl/,218,0,171
+1746549082426,397,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-55,text,true,,115578,116,7,7,https://pokeshop.pl/,250,0,81
+1746549082307,520,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-56,text,true,,117038,236,6,6,https://pokeshop.pl/,139,0,93
+1746549082307,139,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-56,text,true,,522,120,6,6,https://www.pokeshop.pl/,139,0,93
+1746549082446,381,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-56,text,true,,116516,116,6,6,https://pokeshop.pl/,230,0,98
+1746549082406,529,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-57,text,true,,117947,236,6,6,https://pokeshop.pl/,138,0,89
+1746549082406,138,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-57,text,true,,522,120,6,6,https://www.pokeshop.pl/,138,0,89
+1746549082544,391,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-57,text,true,,117425,116,6,6,https://pokeshop.pl/,265,0,105
+1746549082506,549,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-58,text,true,,116950,236,6,6,https://pokeshop.pl/,180,0,111
+1746549082506,180,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-58,text,true,,522,120,6,6,https://www.pokeshop.pl/,180,0,111
+1746549082687,368,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-58,text,true,,116428,116,6,6,https://pokeshop.pl/,244,0,103
+1746549082606,587,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-59,text,true,,117868,236,6,6,https://pokeshop.pl/,174,0,96
+1746549082606,174,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-59,text,true,,522,120,6,6,https://www.pokeshop.pl/,174,0,96
+1746549082781,412,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-59,text,true,,117346,116,6,6,https://pokeshop.pl/,277,0,118
+1746549082705,533,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-60,text,true,,116491,236,6,6,https://pokeshop.pl/,143,0,97
+1746549082705,143,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-60,text,true,,538,120,6,6,https://www.pokeshop.pl/,143,0,97
+1746549082849,389,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-60,text,true,,115953,116,6,6,https://pokeshop.pl/,278,0,98
+1746549082807,583,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-61,text,true,,116498,236,6,6,https://pokeshop.pl/,148,0,92
+1746549082807,148,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-61,text,true,,538,120,6,6,https://www.pokeshop.pl/,148,0,92
+1746549082956,434,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-61,text,true,,115960,116,6,6,https://pokeshop.pl/,277,0,103
+1746549082906,503,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-62,text,true,,116385,236,6,6,https://pokeshop.pl/,134,0,97
+1746549082906,134,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-62,text,true,,538,120,6,6,https://www.pokeshop.pl/,134,0,97
+1746549083040,369,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-62,text,true,,115847,116,6,6,https://pokeshop.pl/,228,0,107
+1746549083005,471,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-63,text,true,,115044,236,5,5,https://pokeshop.pl/,133,0,90
+1746549083005,133,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-63,text,true,,538,120,5,5,https://www.pokeshop.pl/,133,0,90
+1746549083139,337,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-63,text,true,,114506,116,5,5,https://pokeshop.pl/,217,0,76
+1746549083105,452,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-64,text,true,,116877,236,5,5,https://pokeshop.pl/,129,0,76
+1746549083105,129,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-64,text,true,,538,120,5,5,https://www.pokeshop.pl/,129,0,76
+1746549083235,322,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-64,text,true,,116339,116,5,5,https://pokeshop.pl/,211,0,106
+1746549083206,582,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-65,text,true,,115714,236,6,6,https://pokeshop.pl/,149,0,97
+1746549083206,149,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-65,text,true,,538,120,6,6,https://www.pokeshop.pl/,149,0,97
+1746549083356,432,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-65,text,true,,115176,116,6,6,https://pokeshop.pl/,299,0,124
+1746549083306,534,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-66,text,true,,116921,236,6,6,https://pokeshop.pl/,180,0,115
+1746549083306,180,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-66,text,true,,538,120,6,6,https://www.pokeshop.pl/,180,0,115
+1746549083486,354,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-66,text,true,,116383,116,6,6,https://pokeshop.pl/,236,0,87
+1746549083406,517,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-67,text,true,,115194,236,6,6,https://pokeshop.pl/,127,0,75
+1746549083406,127,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-67,text,true,,522,120,6,6,https://www.pokeshop.pl/,127,0,75
+1746549083534,389,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-67,text,true,,114672,116,6,6,https://pokeshop.pl/,253,0,101
+1746549083505,474,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-68,text,true,,115341,236,5,5,https://pokeshop.pl/,137,0,95
+1746549083505,137,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-68,text,true,,522,120,5,5,https://www.pokeshop.pl/,137,0,95
+1746549083642,337,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-68,text,true,,114819,116,5,5,https://pokeshop.pl/,223,0,81
+1746549083605,515,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-69,text,true,,116867,236,6,6,https://pokeshop.pl/,150,0,93
+1746549083605,150,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-69,text,true,,522,120,6,6,https://www.pokeshop.pl/,150,0,93
+1746549083756,364,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-69,text,true,,116345,116,6,6,https://pokeshop.pl/,242,0,102
+1746549083705,446,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-70,text,true,,116033,236,5,5,https://pokeshop.pl/,140,0,94
+1746549083705,140,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-70,text,true,,522,120,5,5,https://www.pokeshop.pl/,140,0,94
+1746549083845,306,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-70,text,true,,115511,116,5,5,https://pokeshop.pl/,192,0,89
+1746549083807,598,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-71,text,true,,116517,236,6,6,https://pokeshop.pl/,155,0,101
+1746549083807,155,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-71,text,true,,522,120,6,6,https://www.pokeshop.pl/,155,0,101
+1746549083963,442,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-71,text,true,,115995,116,6,6,https://pokeshop.pl/,296,0,115
+1746549083907,537,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-72,text,true,,116736,236,6,6,https://pokeshop.pl/,150,0,99
+1746549083907,150,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-72,text,true,,522,120,6,6,https://www.pokeshop.pl/,150,0,99
+1746549084057,387,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-72,text,true,,116214,116,6,6,https://pokeshop.pl/,260,0,95
+1746549084006,475,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-73,text,true,,118076,236,5,5,https://pokeshop.pl/,144,0,99
+1746549084006,144,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-73,text,true,,522,120,5,5,https://www.pokeshop.pl/,144,0,99
+1746549084151,330,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-73,text,true,,117554,116,5,5,https://pokeshop.pl/,197,0,88
+1746549084105,483,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-74,text,true,,115280,236,5,5,https://pokeshop.pl/,160,0,107
+1746549084105,160,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-74,text,true,,538,120,5,5,https://www.pokeshop.pl/,160,0,107
+1746549084266,322,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-74,text,true,,114742,116,5,5,https://pokeshop.pl/,206,0,83
+1746549084206,582,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-75,text,true,,117028,236,6,6,https://pokeshop.pl/,145,0,101
+1746549084206,145,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-75,text,true,,538,120,6,6,https://www.pokeshop.pl/,145,0,101
+1746549084351,437,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-75,text,true,,116490,116,6,6,https://pokeshop.pl/,291,0,139
+1746549084306,587,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-76,text,true,,117701,236,6,6,https://pokeshop.pl/,200,0,128
+1746549084306,200,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-76,text,true,,538,120,6,6,https://www.pokeshop.pl/,200,0,128
+1746549084507,386,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-76,text,true,,117163,116,6,6,https://pokeshop.pl/,261,0,112
+1746549084407,632,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-77,text,true,,116196,236,7,7,https://pokeshop.pl/,139,0,83
+1746549084407,139,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-77,text,true,,522,120,7,7,https://www.pokeshop.pl/,139,0,83
+1746549084547,492,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-77,text,true,,115674,116,7,7,https://pokeshop.pl/,341,0,126
+1746549084507,554,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-78,text,true,,118012,236,6,6,https://pokeshop.pl/,167,0,114
+1746549084507,167,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-78,text,true,,522,120,6,6,https://www.pokeshop.pl/,167,0,114
+1746549084674,387,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-78,text,true,,117490,116,6,6,https://pokeshop.pl/,238,0,104
+1746549084607,504,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-79,text,true,,116019,236,6,6,https://pokeshop.pl/,121,0,79
+1746549084607,121,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-79,text,true,,522,120,6,6,https://www.pokeshop.pl/,121,0,79
+1746549084728,383,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-79,text,true,,115497,116,6,6,https://pokeshop.pl/,257,0,86
+1746549084706,480,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-80,text,true,,117218,236,5,5,https://pokeshop.pl/,150,0,95
+1746549084706,150,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-80,text,true,,538,120,5,5,https://www.pokeshop.pl/,150,0,95
+1746549084856,330,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-80,text,true,,116680,116,5,5,https://pokeshop.pl/,205,0,84
+1746549084905,485,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-82,text,true,,114854,236,6,6,https://pokeshop.pl/,156,0,96
+1746549084905,156,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-82,text,true,,538,120,6,6,https://www.pokeshop.pl/,156,0,96
+1746549085061,329,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-82,text,true,,114316,116,6,6,https://pokeshop.pl/,202,0,102
+1746549084806,599,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-81,text,true,,118313,236,6,6,https://pokeshop.pl/,153,0,99
+1746549084806,153,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-81,text,true,,538,120,6,6,https://www.pokeshop.pl/,153,0,99
+1746549084959,446,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-81,text,true,,117775,116,6,6,https://pokeshop.pl/,294,0,110
+1746549085005,648,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-83,text,true,,117990,236,7,7,https://pokeshop.pl/,202,0,125
+1746549085005,202,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-83,text,true,,538,120,7,7,https://www.pokeshop.pl/,202,0,125
+1746549085207,446,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-83,text,true,,117452,116,7,7,https://pokeshop.pl/,302,0,108
+1746549085106,612,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-84,text,true,,116674,236,7,7,https://pokeshop.pl/,156,0,105
+1746549085106,156,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-84,text,true,,538,120,7,7,https://www.pokeshop.pl/,156,0,105
+1746549085263,455,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-84,text,true,,116136,116,7,7,https://pokeshop.pl/,320,0,128
+1746549085206,594,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-85,text,true,,115834,236,6,6,https://pokeshop.pl/,152,0,86
+1746549085206,152,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-85,text,true,,538,120,6,6,https://www.pokeshop.pl/,152,0,86
+1746549085359,441,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-85,text,true,,115296,116,6,6,https://pokeshop.pl/,286,0,107
+1746549085306,526,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-86,text,true,,116251,236,6,6,https://pokeshop.pl/,177,0,114
+1746549085306,177,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-86,text,true,,538,120,6,6,https://www.pokeshop.pl/,177,0,114
+1746549085483,349,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-86,text,true,,115713,116,6,6,https://pokeshop.pl/,222,0,76
+1746549085405,526,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-87,text,true,,115767,236,6,6,https://pokeshop.pl/,159,0,102
+1746549085405,159,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-87,text,true,,522,120,6,6,https://www.pokeshop.pl/,159,0,102
+1746549085565,366,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-87,text,true,,115245,116,6,6,https://pokeshop.pl/,235,0,110
+1746549085505,535,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-88,text,true,,117991,236,6,6,https://pokeshop.pl/,140,0,80
+1746549085505,140,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-88,text,true,,522,120,6,6,https://www.pokeshop.pl/,140,0,80
+1746549085646,394,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-88,text,true,,117469,116,6,6,https://pokeshop.pl/,281,0,107
+1746549085605,503,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-89,text,true,,118600,236,6,6,https://pokeshop.pl/,156,0,106
+1746549085605,156,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-89,text,true,,522,120,6,6,https://www.pokeshop.pl/,156,0,106
+1746549085761,347,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-89,text,true,,118078,116,6,6,https://pokeshop.pl/,234,0,81
+1746549085707,520,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-90,text,true,,115769,236,6,6,https://pokeshop.pl/,160,0,103
+1746549085707,160,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-90,text,true,,538,120,6,6,https://www.pokeshop.pl/,160,0,103
+1746549085868,359,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-90,text,true,,115231,116,6,6,https://pokeshop.pl/,235,0,105
+1746549085806,547,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-91,text,true,,115429,236,6,6,https://pokeshop.pl/,150,0,98
+1746549085806,150,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-91,text,true,,538,120,6,6,https://www.pokeshop.pl/,150,0,98
+1746549085957,396,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-91,text,true,,114891,116,6,6,https://pokeshop.pl/,257,0,111
+1746549085906,514,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-92,text,true,,116605,236,6,6,https://pokeshop.pl/,158,0,104
+1746549085906,158,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-92,text,true,,538,120,6,6,https://www.pokeshop.pl/,158,0,104
+1746549086065,355,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-92,text,true,,116067,116,6,6,https://pokeshop.pl/,252,0,106
+1746549086006,644,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-93,text,true,,116967,236,7,7,https://pokeshop.pl/,171,0,115
+1746549086006,171,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-93,text,true,,538,120,7,7,https://www.pokeshop.pl/,171,0,115
+1746549086177,473,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-93,text,true,,116429,116,7,7,https://pokeshop.pl/,286,0,104
+1746549086106,552,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-94,text,true,,115872,236,6,6,https://pokeshop.pl/,152,0,89
+1746549086106,152,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-94,text,true,,538,120,6,6,https://www.pokeshop.pl/,152,0,89
+1746549086259,399,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-94,text,true,,115334,116,6,6,https://pokeshop.pl/,251,0,80
+1746549086206,584,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-95,text,true,,118207,236,6,6,https://pokeshop.pl/,167,0,107
+1746549086206,167,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-95,text,true,,538,120,6,6,https://www.pokeshop.pl/,167,0,107
+1746549086374,416,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-95,text,true,,117669,116,6,6,https://pokeshop.pl/,276,0,103
+1746549086307,611,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-96,text,true,,115342,236,5,5,https://pokeshop.pl/,172,0,114
+1746549086307,172,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-96,text,true,,538,120,5,5,https://www.pokeshop.pl/,172,0,114
+1746549086480,438,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-96,text,true,,114804,116,5,5,https://pokeshop.pl/,309,0,117
+1746549086407,597,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-97,text,true,,118435,236,4,4,https://pokeshop.pl/,174,0,115
+1746549086407,174,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-97,text,true,,522,120,4,4,https://www.pokeshop.pl/,174,0,115
+1746549086582,422,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-97,text,true,,117913,116,4,4,https://pokeshop.pl/,300,0,134
+1746549086505,511,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-98,text,true,,116843,236,3,3,https://pokeshop.pl/,152,0,91
+1746549086505,152,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-98,text,true,,522,120,3,3,https://www.pokeshop.pl/,152,0,91
+1746549086657,359,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-98,text,true,,116321,116,3,3,https://pokeshop.pl/,241,0,102
+1746549086607,503,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-99,text,true,,116423,236,2,2,https://pokeshop.pl/,160,0,105
+1746549086607,160,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-99,text,true,,522,120,2,2,https://www.pokeshop.pl/,160,0,105
+1746549086768,342,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-99,text,true,,115901,116,2,2,https://pokeshop.pl/,226,0,84
+1746549086706,491,Strona główna Pokeshop.pl,200,OK,100 użytkowników 1-100,text,true,,117175,236,1,1,https://pokeshop.pl/,146,0,90
+1746549086706,146,Strona główna Pokeshop.pl-0,301,Moved Permanently,100 użytkowników 1-100,text,true,,522,120,1,1,https://www.pokeshop.pl/,146,0,90
+1746549086852,345,Strona główna Pokeshop.pl-1,200,OK,100 użytkowników 1-100,text,true,,116653,116,1,1,https://pokeshop.pl/,215,0,105
